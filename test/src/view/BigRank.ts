@@ -8,7 +8,7 @@ export default class BigRank extends ui.test.BigUI{
         private _key:String = 'test10086';
         /**list初始化使用的数据 */
         private arr:Array<any> = [
-        {index:1,avatarIP:'test/4.png',UserName:"测试用户1",RankValue:100},
+        {index:1,avatarIP:'test/4.png',UserName:"测试用户",RankValue:100},
         {index:2,avatarIP:'test/4.png',UserName:"测试用户2",RankValue:75},
         {index:3,avatarIP:'test/4.png',UserName:"测试用户3",RankValue:50},
         {index:4,avatarIP:'test/4.png',UserName:"测试用户4",RankValue:25}
